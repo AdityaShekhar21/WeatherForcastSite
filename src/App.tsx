@@ -78,7 +78,7 @@ function App() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <Cloud size={32} className="text-white" />
-              <h1 className="text-2xl font-bold text-white">Weather Forecast Site</h1>
+              <h1 className="text-2xl font-bold text-white">WeatherNow</h1>
             </div>
             
             <div className="flex items-center space-x-4">
@@ -149,7 +149,7 @@ function App() {
       <footer className="bg-white/10 backdrop-blur-md border-t border-white/20 mt-16">
         <div className="container mx-auto px-6 py-8">
           <div className="text-center text-white">
-            <p className="mb-2">Weather Forecast Site - Real-time Weather Information</p>
+            <p className="mb-2">WeatherNow - Real-time Weather Information</p>
             <p className="text-sm text-white/70">
               Stay updated with current weather conditions and forecasts for cities worldwide
             </p>
